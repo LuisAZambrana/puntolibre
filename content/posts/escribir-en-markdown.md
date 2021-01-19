@@ -7,6 +7,7 @@ draft: false
 
 
 **Markdown** es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido. Es un texto plano, simple e intuitivo de escribir y fácil de leer en HTML.
+Lo primero que tenemos que saber es que los archivos mardown tienen extensión **md** y se pueden leer con cualquier tipo de editor de texto. Al principio recomiendo usar la web [Dilinger](blank:#https://dillinger.io/) para practicar de manera online.
 
 ### Negrita
 Debemos encerrar la palabra entre asterizcos doble (en cada lado):
@@ -117,10 +118,10 @@ luego bajamos un espacio y luego cerramos el parrafo con
 En el caso anterior que tuve que explicar la inserción de códigos, si o si tuve que evitar el reconocimiento de simbolos sino no podria haberlo mostrado.
 Para hacer esto se utiliza una barra invertida:
 
-\# Sin la barra ubiera sido un titulo h1
+\# Sin la barra hubiera sido un titulo h1
 
 ```
-\# Sin la barra ubiera sido un titulo h1
+\# Sin la barra hubiera sido un titulo h1
 ```
 
 Esto fue todo por hoy sobre **Markdown** y espero que les haya gustado!! Recuerden visitarme en mi [blog personal](blank:#https://luiszambrana.com.ar/) y si les gusta compartir en sus redes sociales.
