@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Punto Libre</title>
-    <link>https://luisazambrana.github.io/puntolibre/posts/</link>
+    <link>https://luisazambrana.github.io/puntolibre/posts/posts/</link>
     <description>Recent content in Posts on Punto Libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 19 Jan 2021 00:30:58 -0300</lastBuildDate>
     
-	<atom:link href="https://luisazambrana.github.io/puntolibre/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luisazambrana.github.io/puntolibre/posts/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Escribir en Markdown</title>
-      <link>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</link>
+      <link>https://luisazambrana.github.io/puntolibre/posts/posts/escribir-en-markdown/</link>
       <pubDate>Tue, 19 Jan 2021 00:30:58 -0300</pubDate>
       
-      <guid>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</guid>
+      <guid>https://luisazambrana.github.io/puntolibre/posts/posts/escribir-en-markdown/</guid>
       <description>Markdown es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido.</description>
     </item>
     
     <item>
       <title>Instalar Docker Sobre Ubuntu</title>
-      <link>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</link>
+      <link>https://luisazambrana.github.io/puntolibre/posts/posts/instalar-docker-sobre-ubuntu/</link>
       <pubDate>Mon, 18 Jan 2021 20:44:54 -0300</pubDate>
       
-      <guid>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</guid>
+      <guid>https://luisazambrana.github.io/puntolibre/posts/posts/instalar-docker-sobre-ubuntu/</guid>
       <description>Pasos para la instalación:
  sudo apt update &amp;amp;&amp;amp; sudo apt upgrade sudo apt install curl python3-pip apt-transport-https ca-certificates software-properties-common sudo apt install docker.</description>
     </item>
