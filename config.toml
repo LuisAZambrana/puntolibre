@@ -80,16 +80,16 @@ url = "mailto:soy@luiszambrana.com.ar"
   name = "Home"
   weight = 200
   identifier = "posts"
-  url = "/posts/"
+  url = "/posts/"sudo
 
   [[menu.main]]
-  name = "About"
+  name = "Sobre Mi"
   weight = 300
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
-  name = "Contact"
+  name = "Contacto"
   weight = 400
   identifier = "contact"
   url = "/contact/"
