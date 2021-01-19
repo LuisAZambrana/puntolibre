@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "es"
+title = "Punto Libre"
+author = "Luis Zambrana"
+description = "Enlaces a mi blog Personal"
+theme = "anatole"
