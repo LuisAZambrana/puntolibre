@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/posts/escribir-en-markdown/</loc>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</loc>
     <lastmod>2021-01-19T00:30:58-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/posts/</loc>
-    <lastmod>2021-01-19T00:30:58-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/posts/instalar-docker-sobre-ubuntu/</loc>
-    <lastmod>2021-01-18T20:44:54-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/archives/</loc>
-    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/about/</loc>
-    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/contact/</loc>
-    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luisazambrana.github.io/puntolibre/posts/</loc>
+    <lastmod>2021-01-19T00:30:58-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</loc>
+    <lastmod>2021-01-18T20:44:54-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/archives/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/categories/</loc>
+    <loc>https://luisazambrana.github.io/puntolibre/about/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/tags/</loc>
+    <loc>https://luisazambrana.github.io/puntolibre/contact/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/</loc>
+    <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/</loc>
   </url>
   
 </urlset>
