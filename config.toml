@@ -1,4 +1,4 @@
-baseURL = "https://luisazambrana.github.io/puntolibre/posts"
+baseURL = "https://luisazambrana.github.io/puntolibre/"
 languageCode = "es"
 DefaultContentLanguage = "es"
 title = "Punto Libre"
