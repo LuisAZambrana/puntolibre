@@ -80,7 +80,7 @@ url = "mailto:soy@luiszambrana.com.ar"
   name = "Home"
   weight = 200
   identifier = "posts"
-  url = "/posts/"sudo
+  url = "/posts/"
 
   [[menu.main]]
   name = "Sobre Mi"
