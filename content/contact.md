@@ -1,7 +1,7 @@
 ---
 author: Luis Zambrana
-title: Contact
+title: Contacto
 date: 2021-01-18
-description: Contact Page
+description: Pagina de contacto
 contact: true
 ---

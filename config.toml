@@ -34,7 +34,7 @@ mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
+contactFormAction = "https://formspree.io/f/xeqpneve"
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 # indexDateFormat = "Mon, Jan 2, 2006"
