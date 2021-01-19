@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Escribir en Markdown</title>
+      <link>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</link>
+      <pubDate>Tue, 19 Jan 2021 00:30:58 -0300</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</guid>
+      <description>Markdown es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido.</description>
+    </item>
+    
+    <item>
       <title>Instalar Docker Sobre Ubuntu</title>
       <link>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</link>
       <pubDate>Mon, 18 Jan 2021 20:44:54 -0300</pubDate>

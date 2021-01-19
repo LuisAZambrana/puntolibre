@@ -4,7 +4,7 @@ date: 2021-01-19T00:30:58-03:00
 author: Luis Zambrana
 draft: false
 ---
-## Escribir en Markdown
+
 
 **Markdown** es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido. Es un texto plano, simple e intuitivo de escribir y fácil de leer en HTML.
 
