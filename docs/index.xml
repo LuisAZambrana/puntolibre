@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Punto Libre</title>
+    <link>https://luisazambrana.github.io/puntolibre/</link>
+    <description>Recent content on Punto Libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luisazambrana.github.io/puntolibre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Instalar Docker Sobre Ubuntu</title>
+      <link>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</link>
+      <pubDate>Mon, 18 Jan 2021 20:44:54 -0300</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</guid>
+      <description>Pasos para la instalación:
+ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade sudo apt install curl python3-pip apt-transport-https ca-certificates software-properties-common sudo apt install docker.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://luisazambrana.github.io/puntolibre/archives/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://luisazambrana.github.io/puntolibre/about/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/about/</guid>
+      <description>Punto Libre es un simple espacio que nace con la idea de hacer un tutorial para quienes necesitan iniciarse en paginas estaticas y además para contribuir con los tutoriales que estan en mi blog como otro punto de partida para hacerlo conocer.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://luisazambrana.github.io/puntolibre/contact/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
