@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es" data-theme=""><head>
-    <title> Luis Zambrana | Posts </title>
+    <title> Luis Zambrana | Big Blue Button Sobre Docker </title>
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.68.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -29,10 +29,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="https://luisazambrana.github.io/puntolibre/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://luisazambrana.github.io/puntolibre/favicons/favicon-16x16.png">
 
-    <link rel="canonical" href="https://luisazambrana.github.io/puntolibre/posts/">
+    <link rel="canonical" href="https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/">
 
     
-    <link rel="alternate" type="application/rss+xml" href="https://luisazambrana.github.io/puntolibre/posts/index.xml" title="Punto Libre" />
     
     
     
@@ -53,8 +52,8 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://luisazambrana.github.io/puntolibre/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="Posts"/>
-<meta name="twitter:description" content="Cultura Libre | Educación Libre | Software Libre"/>
+<meta name="twitter:title" content="Big Blue Button Sobre Docker"/>
+<meta name="twitter:description" content="Dar clases online es todo un tema y más aun cuando requerimos compartir contenidos, cuando hablamos de seguridad de los datos etc etc."/>
 
 </head>
 <body><div class="sidebar animated fadeInDown ">
@@ -109,7 +108,7 @@
         
         
             
-            <li><a class="current"
+            <li><a 
                    href="/puntolibre/posts/"
                         
                    title="">Home</a></li>
@@ -139,41 +138,55 @@
 
     <div class="autopagerize_page_element">
         <div class="content">
-    <div class="archive  animated fadeInDown ">
-        <ul class="list-with-title">
+    <div class="post  animated fadeInDown ">
+        <div class="post-content">
             
-                <div class="listing-title">2021</div>
+            <div class="post-title">
+                <h3>Big Blue Button Sobre Docker</h3>
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/" title="Big Blue Button Sobre Docker">Big Blue Button Sobre Docker</a>
-                                <div class="post-time"><span class="date"> Jan 19 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
+            </div>
+
+            <p>Dar clases online es todo un tema y más aun cuando requerimos compartir contenidos, cuando hablamos de seguridad de los datos etc etc. A sabiendas que hay una resolución nueva en argentina donde se establece el <strong>Plan Básico Universal y Obligatorio</strong> para Internet, Tv, Comunicación celular etc y que en la misma se ve que <strong>la navegacion de los servicios bajo dominios .gob.ar .edu.ar son gratuitos</strong> para los usuarios que ingresan a sus webs etc es un buen momento para montar una sala de conferencias como Big Blue Button. Entre muchas de pago si optas por algo libre y no digo gratuito por que requiere pago de hosting etc que veremos luego, si Buscas un software de código abierto para dar clases Big Blue Button es la opción.</p>
+<p>Como les decia anteriormente los servicios bajo dominios .edu.ar y gob.ar seran gratuitos para el Plan Basico Universal y Obligatorio.</p>
+<p>##Para ver más info del Plan Básico Universal y Obligatorio de comunciaciónes:</p>
+<ul>
+<li>
+<p><a href="blank:#https://www.argentina.gob.ar/noticias/plan-basico-universal-obligatorio-para-celulares-internet-tv-paga-y-telefonia-fija-desde">Prestación en Argentina.gob.ar</a></p>
+</li>
+<li>
+<p><a href="blank:#https://www.enacom.gob.ar/prestacion-basica-universal_p4792">Prestacipon en enacom.gob.ar</a></p>
+</li>
+</ul>
+<p>Se me ocurrió probar <strong>BigBlueButton</strong> en casa, sobre mi propia notebook y quede chocho por que si bien no conocia algunas cuestiones fueron bastante intuitivas.</p>
+<p><img src="(/static/images/bigbluebutton.jpeg)" alt="BigBluegButton" title="BigBluegButton"></p>
+<p>La instalacion de <strong>BigBlueButton</strong> la vamos a realizar sobre <strong>Docker</strong> por lo que recomiendo que lo tengas instalado (en mi caso lo hice sobre ubuntu 20.04) y que conozcas algunas cuestiones de docker.</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">git clone --recurse-submodules https://github.com/LuisAZambrana/bigbluebutton-docker.git bbb-docker
+
+</code></pre></div><p>Ingresamos a la carpeta que recien creamos</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">cd bbb-docker
+
+</code></pre></div><p>Ejecutamos el script que va a hacer le trabajo por nosotros</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">./scripts/setup
+
+</code></pre></div><p>Inciamos los contenedores</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">./scripts/compose up -d
+
+</code></pre></div><p>Luego que ya esten andando los contenedores en otra terminal vamos a crear el usuario administrador para que peudas manejar las salas de <strong>BigBlueButton</strong></p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">./scripts/compose exec greenlight bundle exec rake admin:create
+
+</code></pre></div><p>Espero que les haya gustado y hayan logrado seguir este paso a paso que si bien es larguito el script ayuda a que no haga un monton de cosas que llevarían muchisimo mas tiempo. Les dejo un video sencillo que subi a youtube para darles un ejemplo de lo que se logra:</p>
+<p><a href="http://www.youtube.com/watch?v=lRIAQAmwnBY" title="BigBlueButton Sobre Docker"><img src="http://img.youtube.com/vi/lRIAQAmwnBY/0.jpg" alt="BigBlueButton Sobre Docker"></a></p>
+</div>
+        <div class="post-footer">
+            <div class="info">
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/" title="Escribir en Markdown">Escribir en Markdown</a>
-                                <div class="post-time"><span class="date"> Jan 19 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/" title="Instalar Docker Sobre Ubuntu">Instalar Docker Sobre Ubuntu</a>
-                                <div class="post-time"><span class="date"> Jan 18 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
-                
-            
-        </ul>
+            </div>
+        </div>
+
+        
     </div>
+
 
         </div>
     </div>

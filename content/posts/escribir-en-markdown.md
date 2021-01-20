@@ -112,6 +112,16 @@ Esto seria el codigo y se hace: poniendo
 luego bajamos un espacio y luego cerramos el parrafo con 
 \```
 ```
+### Insertar un video de youtube
+Aca te dejo un video:
+[![BigBlueButton Sobre Docker](http://img.youtube.com/vi/lRIAQAmwnBY/0.jpg)](http://www.youtube.com/watch?v=lRIAQAmwnBY "BigBlueButton Sobre Docker")
+
+y asi queda el codigo:
+
+```
+[![BigBlueButton Sobre Docker](http://img.youtube.com/vi/lRIAQAmwnBY/0.jpg)](http://www.youtube.com/watch?v=lRIAQAmwnBY "BigBlueButton Sobre Docker")
+
+```
 
 ### Omitir Markdown
 
