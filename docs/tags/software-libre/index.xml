@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>software libre on Punto Libre</title>
+    <link>https://luisazambrana.github.io/puntolibre/tags/software-libre/</link>
+    <description>Recent content in software libre on Punto Libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 19 Jan 2021 23:43:05 -0300</lastBuildDate>
+    
+	<atom:link href="https://luisazambrana.github.io/puntolibre/tags/software-libre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Blue Button Sobre Docker</title>
+      <link>https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/</link>
+      <pubDate>Tue, 19 Jan 2021 23:43:05 -0300</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/</guid>
+      <description>Dar clases online es todo un tema y más aun cuando requerimos compartir contenidos, cuando hablamos de seguridad de los datos etc etc.</description>
+    </item>
+    
+    <item>
+      <title>Instalar Docker Sobre Ubuntu</title>
+      <link>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</link>
+      <pubDate>Mon, 18 Jan 2021 20:44:54 -0300</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/</guid>
+      <description>Pasos para la instalación:
+ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade sudo apt install curl python3-pip apt-transport-https ca-certificates software-properties-common sudo apt install docker.</description>
+    </item>
+    
+  </channel>
+</rss>

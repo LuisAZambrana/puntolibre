@@ -3,6 +3,8 @@ title: "Escribir en Markdown"
 date: 2021-01-19T00:30:58-03:00
 author: Luis Zambrana
 draft: false
+description: "Post para que aprendas a escribir en el lenguaje de marcado Markdown"
+tags: ["markdown", "programacion", "developers", "hugo"]
 ---
 
 

@@ -3,6 +3,8 @@ title: "Instalar Docker Sobre Ubuntu"
 date: 2021-01-18T20:44:54-03:00
 author: "Luis Zambrana"
 draft: false
+description: "Post para que aprendas a escribir en el lenguaje de marcado Markdown"
+tags: ["docker", "ubuntu", "software libre"]
 ---
 
 Pasos para la instalación:

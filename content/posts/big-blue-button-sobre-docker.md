@@ -3,6 +3,8 @@ title: "Big Blue Button Sobre Docker"
 date: 2021-01-19T23:43:05-03:00
 author: Luis Zambrana
 draft: false
+description: "Armar una sala de conferencias sobre docker con BigBlueButton"
+tags: ["docker","BigBlueButton","software libre"]
 ---
 Dar clases online es todo un tema y más aun cuando requerimos compartir contenidos, cuando hablamos de seguridad de los datos etc etc. A sabiendas que hay una resolución nueva en argentina donde se establece el **Plan Básico Universal y Obligatorio** para Internet, Tv, Comunicación celular etc y que en la misma se ve que **la navegacion de los servicios bajo dominios .gob.ar .edu.ar son gratuitos** para los usuarios que ingresan a sus webs etc es un buen momento para montar una sala de conferencias como Big Blue Button. Entre muchas de pago si optas por algo libre y no digo gratuito por que requiere pago de hosting etc que veremos luego, si Buscas un software de código abierto para dar clases Big Blue Button es la opción.
 
@@ -15,7 +17,7 @@ Como les decia anteriormente los servicios bajo dominios .edu.ar y gob.ar seran 
 
 Se me ocurrió probar **BigBlueButton** en casa, sobre mi propia notebook y quede chocho por que si bien no conocia algunas cuestiones fueron bastante intuitivas.
 
-![BigBluegButton]((../../images/bigbluebutton.jpeg) "BigBluegButton")
+![BigBluegButton](("images/bigbluebutton.jpeg") "BigBluegButton")
 
 La instalacion de **BigBlueButton** la vamos a realizar sobre **Docker** por lo que recomiendo que lo tengas instalado (en mi caso lo hice sobre ubuntu 20.04) y que conozcas algunas cuestiones de docker.
 

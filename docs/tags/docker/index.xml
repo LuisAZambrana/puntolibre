@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Punto Libre</title>
-    <link>https://luisazambrana.github.io/puntolibre/posts/</link>
-    <description>Recent content in Posts on Punto Libre</description>
+    <title>docker on Punto Libre</title>
+    <link>https://luisazambrana.github.io/puntolibre/tags/docker/</link>
+    <description>Recent content in docker on Punto Libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Wed, 20 Jan 2021 09:54:15 -0300</lastBuildDate>
     
-	<atom:link href="https://luisazambrana.github.io/puntolibre/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luisazambrana.github.io/puntolibre/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -27,15 +27,6 @@
       
       <guid>https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/</guid>
       <description>Dar clases online es todo un tema y más aun cuando requerimos compartir contenidos, cuando hablamos de seguridad de los datos etc etc.</description>
-    </item>
-    
-    <item>
-      <title>Escribir en Markdown</title>
-      <link>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</link>
-      <pubDate>Tue, 19 Jan 2021 00:30:58 -0300</pubDate>
-      
-      <guid>https://luisazambrana.github.io/puntolibre/posts/escribir-en-markdown/</guid>
-      <description>Markdown es una forma sencilla de agregar formato a textos en la web y funciona incorporando algunos caracteres a nuestro contenido.</description>
     </item>
     
     <item>
