@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Punto Libre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 21 Jan 2021 09:45:34 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 14:08:27 -0300</lastBuildDate>
     
 	<atom:link href="https://luisazambrana.github.io/puntolibre/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bajar Mp3 Desde Youtube Con Youtubedl</title>
+      <link>https://luisazambrana.github.io/puntolibre/posts/bajar-mp3-desde-youtube-con-youtubedl/</link>
+      <pubDate>Thu, 21 Jan 2021 14:08:27 -0300</pubDate>
+      
+      <guid>https://luisazambrana.github.io/puntolibre/posts/bajar-mp3-desde-youtube-con-youtubedl/</guid>
+      <description>Hola amigos como andan? Espero que muy muy bien!!! Muchos de uds seguro tendrán alguna app de streaming de audio pago o gratuito con el cual disfrutar de musica offline en viajes o momentos en los que no contamos con conectividad.</description>
+    </item>
     
     <item>
       <title>Crear Un Servidor Sftp Sobre Docker</title>

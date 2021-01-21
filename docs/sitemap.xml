@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/bajar-mp3-desde-youtube-con-youtubedl/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/mp3/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/software-libre/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/tutoriales/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/youtube/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/youtubedl/</loc>
+    <lastmod>2021-01-21T14:08:27-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://luisazambrana.github.io/puntolibre/posts/crear-un-servidor-sftp-sobre-docker/</loc>
     <lastmod>2021-01-21T09:45:34-03:00</lastmod>
   </url>
@@ -18,22 +58,7 @@
   </url>
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/</loc>
-    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luisazambrana.github.io/puntolibre/tags/sftp/</loc>
-    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/tags/software-libre/</loc>
-    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/tags/</loc>
     <lastmod>2021-01-21T09:45:34-03:00</lastmod>
   </url>
   

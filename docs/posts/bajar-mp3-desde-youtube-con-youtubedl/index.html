@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="es" data-theme=""><head>
-    <title> Luis Zambrana | software libre </title>
+    <title> Luis Zambrana | Bajar Mp3 Desde Youtube Con Youtubedl </title>
 
     
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.68.3" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
@@ -29,10 +29,9 @@
     <link rel="icon" type="image/png" sizes="32x32" href="https://luisazambrana.github.io/puntolibre/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://luisazambrana.github.io/puntolibre/favicons/favicon-16x16.png">
 
-    <link rel="canonical" href="https://luisazambrana.github.io/puntolibre/tags/software-libre/">
+    <link rel="canonical" href="https://luisazambrana.github.io/puntolibre/posts/bajar-mp3-desde-youtube-con-youtubedl/">
 
     
-    <link rel="alternate" type="application/rss+xml" href="https://luisazambrana.github.io/puntolibre/tags/software-libre/index.xml" title="Punto Libre" />
     
     
     
@@ -53,8 +52,8 @@
     <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://luisazambrana.github.io/puntolibre/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="software libre"/>
-<meta name="twitter:description" content="Cultura Libre | Educación Libre | Software Libre"/>
+<meta name="twitter:title" content="Bajar Mp3 Desde Youtube Con Youtubedl"/>
+<meta name="twitter:description" content="Bajar Mp3 Desde Youtube Con Youtubedl"/>
 
 </head>
 <body><div class="sidebar animated fadeInDown ">
@@ -139,50 +138,39 @@
 
     <div class="autopagerize_page_element">
         <div class="content">
-    <div class="archive  animated fadeInDown ">
-        <ul class="list-with-title">
+    <div class="post  animated fadeInDown ">
+        <div class="post-content">
             
-                <div class="listing-title">2021</div>
+            <div class="post-title">
+                <h3>Bajar Mp3 Desde Youtube Con Youtubedl</h3>
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/bajar-mp3-desde-youtube-con-youtubedl/" title="Bajar Mp3 Desde Youtube Con Youtubedl">Bajar Mp3 Desde Youtube Con Youtubedl</a>
-                                <div class="post-time"><span class="date"> Jan 21 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
+            </div>
+
+            <p>Hola amigos como andan? Espero que muy muy bien!!! Muchos de uds seguro tendrán alguna app de <strong>streaming de audio</strong> pago o gratuito con el cual disfrutar de musica offline en viajes o momentos en los que no contamos con conectividad. En esta oportunidad les traigo un pequeño tutorial para instalar <strong>youtube-dl</strong> y obviamente ver como se hace para Bajar mp3 desde un video en youtube con youtube-dl en dos simples pasos. Si les gusta, como siempre les pido, compartan en su redes sociales y mil mil gracias por pasar!!</p>
+<p><strong>La instalación de youtube-dl</strong> la vamos a hacer en este tutorial sobre Ubuntu pero bien funciona en sistemas operativos de la misma base (debian, mint etc).</p>
+<p>Primero actualizamos por las dudas:</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">sudo apt update &amp;&amp; sudo apt upgrade
+sudo apt install curl
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+
+</code></pre></div><p>Luego con la url del video que queremos bajar nos queda pararnos en una carpeta donde queramos que quede nuestra musica y ejecutar:</p>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=nbjAnwgNgS4
+
+</code></pre></div><p>Lo mas importante para que tengas en cuenta que el link de youtube va a tener un identificador y necesitamos aprender a reconocerlo. En el ejemplo anterior veremos que es: &lsquo;nbjAnwgNgS4&rsquo;</p>
+<p>Espero les haya servido este sencillo tutorial!</p>
+</div>
+        <div class="post-footer">
+            <div class="info">
                 
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/crear-un-servidor-sftp-sobre-docker/" title="Crear Un Servidor Sftp Sobre Docker">Crear Un Servidor Sftp Sobre Docker</a>
-                                <div class="post-time"><span class="date"> Jan 21 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
-                
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/big-blue-button-sobre-docker/" title="Big Blue Button Sobre Docker">Big Blue Button Sobre Docker</a>
-                                <div class="post-time"><span class="date"> Jan 19 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
-                
-                    <ul class="listing">
-                        <div class="listing-item">
-                            <div class="listing-post"><a href="https://luisazambrana.github.io/puntolibre/posts/instalar-docker-sobre-ubuntu/" title="Instalar Docker Sobre Ubuntu">Instalar Docker Sobre Ubuntu</a>
-                                <div class="post-time"><span class="date"> Jan 18 
-                                                                            </span></div>
-                            </div>
-                        </div>
-                    </ul>
-                
-            
-        </ul>
+                <span class="separator"><a class="tag" href="/puntolibre/tags/mp3/">mp3</a><a class="tag" href="/puntolibre/tags/youtubedl/">youtubedl</a><a class="tag" href="/puntolibre/tags/software-libre/">software libre</a><a class="tag" href="/puntolibre/tags/youtube/">youtube</a><a class="tag" href="/puntolibre/tags/tutoriales/">tutoriales</a></span>
+
+            </div>
+        </div>
+
+        
     </div>
+
 
         </div>
     </div>
