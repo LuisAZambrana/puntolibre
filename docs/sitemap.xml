@@ -3,22 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/tags/docker/</loc>
-    <lastmod>2021-01-20T09:54:15-03:00</lastmod>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/crear-un-servidor-sftp-sobre-docker/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luisazambrana.github.io/puntolibre/posts/docker-y-sus-comandos-mas-usados/</loc>
-    <lastmod>2021-01-20T09:54:15-03:00</lastmod>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/docker/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/docker-compose/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://luisazambrana.github.io/puntolibre/posts/</loc>
-    <lastmod>2021-01-20T09:54:15-03:00</lastmod>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/sftp/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/tags/software-libre/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://luisazambrana.github.io/puntolibre/tags/</loc>
+    <lastmod>2021-01-21T09:45:34-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luisazambrana.github.io/puntolibre/posts/docker-y-sus-comandos-mas-usados/</loc>
     <lastmod>2021-01-20T09:54:15-03:00</lastmod>
   </url>
   
@@ -29,11 +49,6 @@
   
   <url>
     <loc>https://luisazambrana.github.io/puntolibre/tags/bigbluebutton/</loc>
-    <lastmod>2021-01-19T23:43:05-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luisazambrana.github.io/puntolibre/tags/software-libre/</loc>
     <lastmod>2021-01-19T23:43:05-03:00</lastmod>
   </url>
   
