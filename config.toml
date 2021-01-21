@@ -81,9 +81,9 @@ url = "mailto:soy@luiszambrana.com.ar"
   name = "Home"
   weight = 200
   identifier = "posts"
-  url = "/posts/"
+  url = "/home/"
 
-   [[menu.main]]
+  [[menu.main]]
   name = "Posteos"
   weight = 200
   identifier = "posts"
