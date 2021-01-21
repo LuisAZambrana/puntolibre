@@ -30,7 +30,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = ["post","docs"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -40,6 +40,7 @@ contactFormAction = "https://formspree.io/f/xeqpneve"
 # indexDateFormat = "Mon, Jan 2, 2006"
 # listDateFormat = "Jan 2"
 # singleDateFormat = "Mon, Jan 2, 2006"
+
 
 [params.simpleAnalytics]
 # enable = true
@@ -78,6 +79,12 @@ url = "mailto:soy@luiszambrana.com.ar"
 
   [[menu.main]]
   name = "Home"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+   [[menu.main]]
+  name = "Posteos"
   weight = 200
   identifier = "posts"
   url = "/posts/"
