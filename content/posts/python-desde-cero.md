@@ -14,3 +14,4 @@ Como siempre debemos empezar por el principio y eso seria responder a la pregunt
 
 ![Python](("https://luisazambrana.github.io/puntolibre/images/logo-python.png") "Python")
 
+![Example image](/static/image.png)
