@@ -17,7 +17,7 @@ Como les decia anteriormente los servicios bajo dominios .edu.ar y gob.ar seran 
 
 Se me ocurrió probar **BigBlueButton** en casa, sobre mi propia notebook y quede chocho por que si bien no conocia algunas cuestiones fueron bastante intuitivas.
 
-![BigBluegButton](("images/bigbluebutton.jpeg") "BigBluegButton")
+![BigBluegButton](("https://luisazambrana.github.io/puntolibre/images/bigbluebutton.jpeg") "BigBluegButton")
 
 La instalacion de **BigBlueButton** la vamos a realizar sobre **Docker** por lo que recomiendo que lo tengas instalado (en mi caso lo hice sobre ubuntu 20.04) y que conozcas algunas cuestiones de docker.
 

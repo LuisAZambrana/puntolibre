@@ -2,6 +2,7 @@
 title: "Bajar Mp3 Desde Youtube Con Youtubedl"
 date: 2021-01-21T14:08:27-03:00
 draft: false
+author: Luis Zambrana
 description: "Bajar Mp3 Desde Youtube Con Youtubedl"
 tags: ["mp3","youtubedl","software libre","youtube", "tutoriales"]
 ---
@@ -28,4 +29,4 @@ youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=nb
 ```
 Lo mas importante para que tengas en cuenta que el link de youtube va a tener un identificador y necesitamos aprender a reconocerlo. En el ejemplo anterior veremos que es: 'nbjAnwgNgS4'
 
-Espero les haya servido este sencillo tutorial!
+**Espero les haya servido este sencillo tutorial!**

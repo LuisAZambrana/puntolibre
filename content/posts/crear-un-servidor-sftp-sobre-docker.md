@@ -2,6 +2,7 @@
 title: "Crear Un Servidor Sftp Sobre Docker"
 date: 2021-01-21T09:45:34-03:00
 draft: false
+Author: Luis Zambrana
 description: "Armar un servidor sftp sobre docker"
 tags: ["docker","sftp","software libre","docker-compose"]
 ---
