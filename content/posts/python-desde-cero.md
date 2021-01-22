@@ -13,5 +13,4 @@ Como siempre debemos empezar por el principio y eso seria responder a la pregunt
 ## ¿Que es python?
 
 ![Python](("https://luisazambrana.github.io/puntolibre/images/logo-python.png") "Python")
-
-![Example image](/static/image.png)
+<img class="special-img-class" src="/my_images.png" />
