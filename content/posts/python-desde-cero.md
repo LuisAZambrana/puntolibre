@@ -2,7 +2,9 @@
 title: "Python Desde Cero"
 date: 2021-01-22T10:50:37-03:00
 author: Luis Zambrana
+draft: true
 description: "Guia completa paso a paso de Python"
+thumbnail: "images/logo-python.png"
 tags: ["Python","programación","software libre","desarrollo"]
 ---
 
@@ -13,4 +15,4 @@ Como siempre debemos empezar por el principio y eso seria responder a la pregunt
 ## ¿Que es python?
 
 ![Python](("https://luisazambrana.github.io/puntolibre/images/logo-python.png") "Python")
-<img class="special-img-class" src="/my_images.png" />
+
